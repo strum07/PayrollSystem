@@ -1,7 +1,7 @@
         <div class="header">
             <h1>OMIS 652: Extra Credit Demo</h1>
 
-            <h1>Case Study: Payroll System</h1>
+            <h1></h1>
             <h2>Manage Employee Data</h2>
         </div>
 
